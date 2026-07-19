@@ -1,0 +1,28 @@
+{
+  "webhook_logs": {},
+  "refund_notes": {},
+  "subscription_history": {},
+  "custom_coupons": {
+    "SAVE10": {
+      "code": "SAVE10",
+      "type": "PERCENTAGE",
+      "value": "10.00",
+      "usage_limit": 500,
+      "usage_count": 0,
+      "expiry_date": "2027-12-31",
+      "minimum_purchase": "50.00",
+      "is_active": true
+    },
+    "FLAT50": {
+      "code": "FLAT50",
+      "type": "FIXED",
+      "value": "50.00",
+      "usage_limit": 100,
+      "usage_count": 0,
+      "expiry_date": "2027-12-31",
+      "minimum_purchase": "200.00",
+      "is_active": true
+    }
+  },
+  "audit_logs": []
+}

@@ -1,0 +1,57 @@
+{
+  "soft_deleted_wallets": [],
+  "subscriptions": {
+    "62185a45-a638-445b-9bca-b6cad50810d6": {
+      "id": "3a038306-0d9b-46a0-a4af-ed60018a1dc6",
+      "plan_name": "Portfolio Builder (\u20b999/month)",
+      "status": "cancelled",
+      "created_at": "2026-07-09T04:44:44.050059+00:00",
+      "expires_at": "2026-08-08T04:44:44.073745+00:00"
+    }
+  },
+  "coupons": {
+    "GALAXY20": {
+      "code": "GALAXY20",
+      "type": "PERCENTAGE",
+      "value": 20.0,
+      "usage_limit": 5,
+      "usage_count": 1,
+      "expiry_date": "2027-12-31",
+      "is_active": true
+    }
+  },
+  "invoices": {},
+  "fine_grained_transactions": {
+    "fc2098a9-fd8f-435f-a4b9-3f4751d187b3": "CREDIT",
+    "e0c6b022-9f5b-4ca7-99c4-28059eb7937d": "PURCHASE",
+    "dcecff1b-3d2d-40e7-8d6a-e2fcf5f8a101": "TAX",
+    "6123b73c-80d7-4066-bf06-476dcb09756c": "COMMISSION",
+    "02ce4fc9-c67b-4c31-aee4-899a7573ad6e": "SETTLEMENT",
+    "5bc09842-b334-43d8-a2ed-33c72ece149a": "CREDIT",
+    "2403f601-c431-4cbf-b742-a9a93aaba1b8": "CREDIT",
+    "3a2b1784-e03e-49bb-a8ce-a5f2edf61992": "CREDIT",
+    "79555fcc-63f6-4a54-8dd5-74e029e1e976": "PURCHASE",
+    "0699ac04-7dce-44bc-9828-89c5e99f6db0": "TAX",
+    "1c9669bd-9836-44dc-8cce-9efafeba2aa9": "COMMISSION",
+    "c9396320-ae50-4089-83e0-27cdf6966247": "SETTLEMENT",
+    "1d6b7a0d-ada6-4047-a717-2e5870be6413": "CREDIT",
+    "77fe5045-3a02-4cf0-b077-81424012cfda": "TRANSFER",
+    "3183cae5-214e-407c-a269-3ec927ce6ffd": "TRANSFER",
+    "8241e916-7c1b-4531-b4d8-71147e93ab6d": "CREDIT",
+    "5afda9bb-2472-449a-b646-6de3897aed5c": "TRANSFER",
+    "6954ade3-91c1-4175-aec2-069cfbee8467": "TRANSFER",
+    "dce1c02d-809e-4684-a99f-58b2d4ec3f0e": "WITHDRAWAL",
+    "c38bbc32-3166-4e7f-ac7e-204c97a1de49": "CREDIT",
+    "e7cd5715-000e-4f4d-b591-758a8268f7ce": "TRANSFER",
+    "3e630aef-2d89-46d4-981b-186c19515daa": "TRANSFER",
+    "edd8bd9a-ac7c-4a1e-b0aa-52e9babeeace": "WITHDRAWAL",
+    "0a35a3f0-9331-4372-8b08-edc586535732": "CREDIT",
+    "f0bf52d6-ae35-425e-a5e9-27aa93929286": "TRANSFER",
+    "508587fc-fdae-4c64-b950-fcc9a7d307b8": "TRANSFER",
+    "e0b0d958-8683-41e3-a668-29268c02d43a": "WITHDRAWAL",
+    "47e2de99-113b-4768-953b-6303ea6a2ab0": "CREDIT",
+    "374e6613-9ad4-49d5-84a5-1100c043d193": "TRANSFER",
+    "a163b5f2-f054-4f15-a0ab-b2f246573d8e": "TRANSFER",
+    "549fc820-b4f6-40ce-a48f-a80936578fe4": "WITHDRAWAL"
+  }
+}

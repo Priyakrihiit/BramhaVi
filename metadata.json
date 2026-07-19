@@ -1,0 +1,8 @@
+{
+  "name": "BrahmaVidya Galaxy",
+  "description": "Dynamic, metadata-driven Enterprise CMS and LMS Educational Platform with Menu Managers, Page Builders, Certificate Engines, RBAC permission matrices, and Gemini-powered Vidya AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

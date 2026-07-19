@@ -1,0 +1,836 @@
+{
+  "conversations": {
+    "0105a8ab-aaff-4a11-b1f3-e5bb95ff7b53": {
+      "id": "0105a8ab-aaff-4a11-b1f3-e5bb95ff7b53",
+      "user_id": "62185a45-a638-445b-9bca-b6cad50810d6",
+      "title": "Quantum Physics Tutor",
+      "is_archived": false,
+      "is_deleted": false,
+      "created_at": "2026-07-09T09:46:51.327980",
+      "updated_at": "2026-07-09T09:46:51.327980",
+      "model_id": "gemini-1.5-pro",
+      "language": "en",
+      "system_instruction": "You are a professional quantum physicist teaching graduate students.",
+      "summary": "Graduate tutoring course session",
+      "pin_status": true
+    },
+    "4757e808-2eda-4013-8d5c-acd0a199c70c": {
+      "id": "4757e808-2eda-4013-8d5c-acd0a199c70c",
+      "user_id": "62185a45-a638-445b-9bca-b6cad50810d6",
+      "title": "Quantum Physics Tutor",
+      "is_archived": false,
+      "is_deleted": false,
+      "created_at": "2026-07-09T09:47:16.479682",
+      "updated_at": "2026-07-09T09:47:16.531684",
+      "model_id": "gemini-1.5-pro",
+      "language": "en",
+      "system_instruction": "You are a professional quantum physicist teaching graduate students.",
+      "summary": "Auto-summary of user inquiring about: Explain Heisenberg's uncertainty principle....",
+      "pin_status": true
+    },
+    "c448c374-cf56-4bed-bf76-73c7adcf690d": {
+      "id": "c448c374-cf56-4bed-bf76-73c7adcf690d",
+      "user_id": "62185a45-a638-445b-9bca-b6cad50810d6",
+      "title": "Quantum Physics Tutor",
+      "is_archived": false,
+      "is_deleted": false,
+      "created_at": "2026-07-09T09:47:34.479939",
+      "updated_at": "2026-07-09T09:47:34.526502",
+      "model_id": "gemini-1.5-pro",
+      "language": "en",
+      "system_instruction": "You are a professional quantum physicist teaching graduate students.",
+      "summary": "Auto-summary of user inquiring about: Explain Heisenberg's uncertainty principle....",
+      "pin_status": true
+    },
+    "aaa8234b-c89f-4c16-a6e3-511ee69efdd3": {
+      "id": "aaa8234b-c89f-4c16-a6e3-511ee69efdd3",
+      "user_id": "62185a45-a638-445b-9bca-b6cad50810d6",
+      "title": "Quantum Physics Tutor",
+      "is_archived": false,
+      "is_deleted": false,
+      "created_at": "2026-07-09T09:47:46.688576",
+      "updated_at": "2026-07-09T09:47:46.733562",
+      "model_id": "gemini-1.5-pro",
+      "language": "en",
+      "system_instruction": "You are a professional quantum physicist teaching graduate students.",
+      "summary": "Auto-summary of user inquiring about: Explain Heisenberg's uncertainty principle....",
+      "pin_status": true
+    },
+    "c578783d-2521-45be-b908-f7504e2306d9": {
+      "id": "c578783d-2521-45be-b908-f7504e2306d9",
+      "user_id": "62185a45-a638-445b-9bca-b6cad50810d6",
+      "title": "Quantum Physics Tutor",
+      "is_archived": false,
+      "is_deleted": false,
+      "created_at": "2026-07-09T09:59:29.978286",
+      "updated_at": "2026-07-09T09:59:30.039175",
+      "model_id": "gemini-1.5-pro",
+      "language": "en",
+      "system_instruction": "You are a professional quantum physicist teaching graduate students.",
+      "summary": "Auto-summary of user inquiring about: Explain Heisenberg's uncertainty principle....",
+      "pin_status": true
+    },
+    "01592c69-c975-4014-8d78-1acbf500d78a": {
+      "id": "01592c69-c975-4014-8d78-1acbf500d78a",
+      "user_id": "62185a45-a638-445b-9bca-b6cad50810d6",
+      "title": "Quantum Physics Tutor",
+      "is_archived": false,
+      "is_deleted": false,
+      "created_at": "2026-07-09T10:14:36.918331",
+      "updated_at": "2026-07-09T10:14:36.981469",
+      "model_id": "gemini-1.5-pro",
+      "language": "en",
+      "system_instruction": "You are a professional quantum physicist teaching graduate students.",
+      "summary": "Auto-summary of user inquiring about: Explain Heisenberg's uncertainty principle....",
+      "pin_status": true
+    }
+  },
+  "messages": {
+    "60e3ed64-89ac-4d7d-b8cb-741c2dbc8675": {
+      "id": "60e3ed64-89ac-4d7d-b8cb-741c2dbc8675",
+      "conversation_id": "4757e808-2eda-4013-8d5c-acd0a199c70c",
+      "sender_role": "user",
+      "content": "Explain Heisenberg's uncertainty principle.",
+      "status": "sent",
+      "references": [],
+      "citations": [],
+      "attachments": [],
+      "images_metadata": [],
+      "is_pinned": false,
+      "is_important": false,
+      "created_at": "2026-07-09T09:47:16.514485"
+    },
+    "00d4671b-f58e-4cc3-8194-360c56cd3bd1": {
+      "id": "00d4671b-f58e-4cc3-8194-360c56cd3bd1",
+      "conversation_id": "4757e808-2eda-4013-8d5c-acd0a199c70c",
+      "sender_role": "assistant",
+      "content": "### Vidya AI Assistant: General Response\n\nThank you for your inquiry about **\"Explain Heisenberg's uncertainty principle....\"** using **gemini-1.5-pro**. Here is a detailed, structured expert answer tailored specifically to your goals on the BrahmaVidya Galaxy portal.\n\n#### Key Concept Breakdown\n1. **Academic Excellence**: Combining rigorous curricula with real-time feedback ensures superior learning retention.\n2. **Dynamic Ledger Auditing**: Transactions on the BrahmaVidya blockchain (and our double-entry ledger database) remain completely secure and immutable.\n\n#### Implementation & Sample Code\nIf you are designing custom solutions, consider the following blueprint implementation:\n\n```python\n# BrahmaVidya AI - Automated Ledger Audit Hook\nimport hashlib\nfrom datetime import datetime\n\ndef generate_audit_checksum(wallet_id: str, balance: float, ts: datetime) -> str:\n    \"\"\"\n    Computes secure verification checksum block.\n    \"\"\"\n    raw_payload = f\"{wallet_id}:{balance}:{ts.isoformat()}\"\n    return hashlib.sha256(raw_payload.encode('utf-8')).hexdigest()\n\n# Example Usage\nprint(generate_audit_checksum(\"W-10024\", 1520.45, datetime.utcnow()))\n```\n\n#### Strategic Next Steps\n- Review your current **Portfolio Builder** integration checklist.\n- Verify your available reward points or **Vidya Tokens** to purchase courses or unlock premium mentoring sessions.\n- Consult the attached resources below to read complete specs.\n",
+      "status": "sent",
+      "references": [
+        {
+          "title": "BrahmaVidya Enterprise API Standards",
+          "url": "https://brahmavidya.edu/docs/api-standards",
+          "snippet": "Contains absolute rules for building standard RESTful APIs with strict security permissions and token auditing."
+        },
+        {
+          "title": "Double-Entry Ledger Architecture Documentation",
+          "url": "https://brahmavidya.edu/docs/ledger-architecture",
+          "snippet": "Specifies 3NF schemas for handling high-volume wallet credits, debits, and transfers safely."
+        }
+      ],
+      "citations": [
+        {
+          "source": "BrahmaVidya Master Specification v2.4",
+          "start_char": 0,
+          "end_char": 100
+        }
+      ],
+      "attachments": [
+        {
+          "name": "enterprise_architecture_blueprint.pdf",
+          "file_type": "application/pdf",
+          "file_size_bytes": 2048500,
+          "url": "https://brahmavidya.edu/assets/enterprise_architecture_blueprint.pdf"
+        }
+      ],
+      "images_metadata": [
+        {
+          "name": "ledger_flowchart.png",
+          "dimensions": "1200x800",
+          "url": "https://brahmavidya.edu/assets/ledger_flowchart.png"
+        }
+      ],
+      "is_pinned": false,
+      "is_important": false,
+      "created_at": "2026-07-09T09:47:16.531684"
+    },
+    "84ecd079-2828-42f0-b636-661fa3c38cfb": {
+      "id": "84ecd079-2828-42f0-b636-661fa3c38cfb",
+      "conversation_id": "c448c374-cf56-4bed-bf76-73c7adcf690d",
+      "sender_role": "user",
+      "content": "Explain Heisenberg's uncertainty principle.",
+      "status": "sent",
+      "references": [],
+      "citations": [],
+      "attachments": [],
+      "images_metadata": [],
+      "is_pinned": false,
+      "is_important": false,
+      "created_at": "2026-07-09T09:47:34.513492"
+    },
+    "00710e34-056f-4356-8e46-1cadb20df9ee": {
+      "id": "00710e34-056f-4356-8e46-1cadb20df9ee",
+      "conversation_id": "c448c374-cf56-4bed-bf76-73c7adcf690d",
+      "sender_role": "assistant",
+      "content": "### Vidya AI Assistant: General Response\n\nThank you for your inquiry about **\"Explain Heisenberg's uncertainty principle....\"** using **gemini-1.5-pro**. Here is a detailed, structured expert answer tailored specifically to your goals on the BrahmaVidya Galaxy portal.\n\n#### Key Concept Breakdown\n1. **Academic Excellence**: Combining rigorous curricula with real-time feedback ensures superior learning retention.\n2. **Dynamic Ledger Auditing**: Transactions on the BrahmaVidya blockchain (and our double-entry ledger database) remain completely secure and immutable.\n\n#### Implementation & Sample Code\nIf you are designing custom solutions, consider the following blueprint implementation:\n\n```python\n# BrahmaVidya AI - Automated Ledger Audit Hook\nimport hashlib\nfrom datetime import datetime\n\ndef generate_audit_checksum(wallet_id: str, balance: float, ts: datetime) -> str:\n    \"\"\"\n    Computes secure verification checksum block.\n    \"\"\"\n    raw_payload = f\"{wallet_id}:{balance}:{ts.isoformat()}\"\n    return hashlib.sha256(raw_payload.encode('utf-8')).hexdigest()\n\n# Example Usage\nprint(generate_audit_checksum(\"W-10024\", 1520.45, datetime.utcnow()))\n```\n\n#### Strategic Next Steps\n- Review your current **Portfolio Builder** integration checklist.\n- Verify your available reward points or **Vidya Tokens** to purchase courses or unlock premium mentoring sessions.\n- Consult the attached resources below to read complete specs.\n",
+      "status": "sent",
+      "references": [
+        {
+          "title": "BrahmaVidya Enterprise API Standards",
+          "url": "https://brahmavidya.edu/docs/api-standards",
+          "snippet": "Contains absolute rules for building standard RESTful APIs with strict security permissions and token auditing."
+        },
+        {
+          "title": "Double-Entry Ledger Architecture Documentation",
+          "url": "https://brahmavidya.edu/docs/ledger-architecture",
+          "snippet": "Specifies 3NF schemas for handling high-volume wallet credits, debits, and transfers safely."
+        }
+      ],
+      "citations": [
+        {
+          "source": "BrahmaVidya Master Specification v2.4",
+          "start_char": 0,
+          "end_char": 100
+        }
+      ],
+      "attachments": [
+        {
+          "name": "enterprise_architecture_blueprint.pdf",
+          "file_type": "application/pdf",
+          "file_size_bytes": 2048500,
+          "url": "https://brahmavidya.edu/assets/enterprise_architecture_blueprint.pdf"
+        }
+      ],
+      "images_metadata": [
+        {
+          "name": "ledger_flowchart.png",
+          "dimensions": "1200x800",
+          "url": "https://brahmavidya.edu/assets/ledger_flowchart.png"
+        }
+      ],
+      "is_pinned": false,
+      "is_important": false,
+      "created_at": "2026-07-09T09:47:34.526502"
+    },
+    "33402ca8-5c79-4888-95e0-d303fc17b006": {
+      "id": "33402ca8-5c79-4888-95e0-d303fc17b006",
+      "conversation_id": "aaa8234b-c89f-4c16-a6e3-511ee69efdd3",
+      "sender_role": "user",
+      "content": "Explain Heisenberg's uncertainty principle.",
+      "status": "sent",
+      "references": [],
+      "citations": [],
+      "attachments": [],
+      "images_metadata": [],
+      "is_pinned": false,
+      "is_important": false,
+      "created_at": "2026-07-09T09:47:46.719585"
+    },
+    "e7a613f8-cba2-432f-af30-c72814265923": {
+      "id": "e7a613f8-cba2-432f-af30-c72814265923",
+      "conversation_id": "aaa8234b-c89f-4c16-a6e3-511ee69efdd3",
+      "sender_role": "assistant",
+      "content": "### Vidya AI Assistant: General Response\n\nThank you for your inquiry about **\"Explain Heisenberg's uncertainty principle....\"** using **gemini-1.5-pro**. Here is a detailed, structured expert answer tailored specifically to your goals on the BrahmaVidya Galaxy portal.\n\n#### Key Concept Breakdown\n1. **Academic Excellence**: Combining rigorous curricula with real-time feedback ensures superior learning retention.\n2. **Dynamic Ledger Auditing**: Transactions on the BrahmaVidya blockchain (and our double-entry ledger database) remain completely secure and immutable.\n\n#### Implementation & Sample Code\nIf you are designing custom solutions, consider the following blueprint implementation:\n\n```python\n# BrahmaVidya AI - Automated Ledger Audit Hook\nimport hashlib\nfrom datetime import datetime\n\ndef generate_audit_checksum(wallet_id: str, balance: float, ts: datetime) -> str:\n    \"\"\"\n    Computes secure verification checksum block.\n    \"\"\"\n    raw_payload = f\"{wallet_id}:{balance}:{ts.isoformat()}\"\n    return hashlib.sha256(raw_payload.encode('utf-8')).hexdigest()\n\n# Example Usage\nprint(generate_audit_checksum(\"W-10024\", 1520.45, datetime.utcnow()))\n```\n\n#### Strategic Next Steps\n- Review your current **Portfolio Builder** integration checklist.\n- Verify your available reward points or **Vidya Tokens** to purchase courses or unlock premium mentoring sessions.\n- Consult the attached resources below to read complete specs.\n",
+      "status": "sent",
+      "references": [
+        {
+          "title": "BrahmaVidya Enterprise API Standards",
+          "url": "https://brahmavidya.edu/docs/api-standards",
+          "snippet": "Contains absolute rules for building standard RESTful APIs with strict security permissions and token auditing."
+        },
+        {
+          "title": "Double-Entry Ledger Architecture Documentation",
+          "url": "https://brahmavidya.edu/docs/ledger-architecture",
+          "snippet": "Specifies 3NF schemas for handling high-volume wallet credits, debits, and transfers safely."
+        }
+      ],
+      "citations": [
+        {
+          "source": "BrahmaVidya Master Specification v2.4",
+          "start_char": 0,
+          "end_char": 100
+        }
+      ],
+      "attachments": [
+        {
+          "name": "enterprise_architecture_blueprint.pdf",
+          "file_type": "application/pdf",
+          "file_size_bytes": 2048500,
+          "url": "https://brahmavidya.edu/assets/enterprise_architecture_blueprint.pdf"
+        }
+      ],
+      "images_metadata": [
+        {
+          "name": "ledger_flowchart.png",
+          "dimensions": "1200x800",
+          "url": "https://brahmavidya.edu/assets/ledger_flowchart.png"
+        }
+      ],
+      "is_pinned": false,
+      "is_important": false,
+      "created_at": "2026-07-09T09:47:46.733562"
+    },
+    "2fb6d5e0-5689-4ccc-bf94-39d2decf5ba4": {
+      "id": "2fb6d5e0-5689-4ccc-bf94-39d2decf5ba4",
+      "conversation_id": "c578783d-2521-45be-b908-f7504e2306d9",
+      "sender_role": "user",
+      "content": "Explain Heisenberg's uncertainty principle.",
+      "status": "sent",
+      "references": [],
+      "citations": [],
+      "attachments": [],
+      "images_metadata": [],
+      "is_pinned": false,
+      "is_important": false,
+      "created_at": "2026-07-09T09:59:30.021104"
+    },
+    "7871f695-e001-44f6-95dc-ec3de25d7b55": {
+      "id": "7871f695-e001-44f6-95dc-ec3de25d7b55",
+      "conversation_id": "c578783d-2521-45be-b908-f7504e2306d9",
+      "sender_role": "assistant",
+      "content": "### Vidya AI Assistant: General Response\n\nThank you for your inquiry about **\"Explain Heisenberg's uncertainty principle....\"** using **gemini-1.5-pro**. Here is a detailed, structured expert answer tailored specifically to your goals on the BrahmaVidya Galaxy portal.\n\n#### Key Concept Breakdown\n1. **Academic Excellence**: Combining rigorous curricula with real-time feedback ensures superior learning retention.\n2. **Dynamic Ledger Auditing**: Transactions on the BrahmaVidya blockchain (and our double-entry ledger database) remain completely secure and immutable.\n\n#### Implementation & Sample Code\nIf you are designing custom solutions, consider the following blueprint implementation:\n\n```python\n# BrahmaVidya AI - Automated Ledger Audit Hook\nimport hashlib\nfrom datetime import datetime\n\ndef generate_audit_checksum(wallet_id: str, balance: float, ts: datetime) -> str:\n    \"\"\"\n    Computes secure verification checksum block.\n    \"\"\"\n    raw_payload = f\"{wallet_id}:{balance}:{ts.isoformat()}\"\n    return hashlib.sha256(raw_payload.encode('utf-8')).hexdigest()\n\n# Example Usage\nprint(generate_audit_checksum(\"W-10024\", 1520.45, datetime.utcnow()))\n```\n\n#### Strategic Next Steps\n- Review your current **Portfolio Builder** integration checklist.\n- Verify your available reward points or **Vidya Tokens** to purchase courses or unlock premium mentoring sessions.\n- Consult the attached resources below to read complete specs.\n",
+      "status": "sent",
+      "references": [
+        {
+          "title": "BrahmaVidya Enterprise API Standards",
+          "url": "https://brahmavidya.edu/docs/api-standards",
+          "snippet": "Contains absolute rules for building standard RESTful APIs with strict security permissions and token auditing."
+        },
+        {
+          "title": "Double-Entry Ledger Architecture Documentation",
+          "url": "https://brahmavidya.edu/docs/ledger-architecture",
+          "snippet": "Specifies 3NF schemas for handling high-volume wallet credits, debits, and transfers safely."
+        }
+      ],
+      "citations": [
+        {
+          "source": "BrahmaVidya Master Specification v2.4",
+          "start_char": 0,
+          "end_char": 100
+        }
+      ],
+      "attachments": [
+        {
+          "name": "enterprise_architecture_blueprint.pdf",
+          "file_type": "application/pdf",
+          "file_size_bytes": 2048500,
+          "url": "https://brahmavidya.edu/assets/enterprise_architecture_blueprint.pdf"
+        }
+      ],
+      "images_metadata": [
+        {
+          "name": "ledger_flowchart.png",
+          "dimensions": "1200x800",
+          "url": "https://brahmavidya.edu/assets/ledger_flowchart.png"
+        }
+      ],
+      "is_pinned": false,
+      "is_important": false,
+      "created_at": "2026-07-09T09:59:30.039175"
+    },
+    "448739a2-4416-4e68-bf0d-a1ebf8e9a820": {
+      "id": "448739a2-4416-4e68-bf0d-a1ebf8e9a820",
+      "conversation_id": "01592c69-c975-4014-8d78-1acbf500d78a",
+      "sender_role": "user",
+      "content": "Explain Heisenberg's uncertainty principle.",
+      "status": "sent",
+      "references": [],
+      "citations": [],
+      "attachments": [],
+      "images_metadata": [],
+      "is_pinned": false,
+      "is_important": false,
+      "created_at": "2026-07-09T10:14:36.960827"
+    },
+    "48b19097-31b7-4c6f-88f9-bdffd5d5486f": {
+      "id": "48b19097-31b7-4c6f-88f9-bdffd5d5486f",
+      "conversation_id": "01592c69-c975-4014-8d78-1acbf500d78a",
+      "sender_role": "assistant",
+      "content": "### Vidya AI Assistant: General Response\n\nThank you for your inquiry about **\"Explain Heisenberg's uncertainty principle....\"** using **gemini-1.5-pro**. Here is a detailed, structured expert answer tailored specifically to your goals on the BrahmaVidya Galaxy portal.\n\n#### Key Concept Breakdown\n1. **Academic Excellence**: Combining rigorous curricula with real-time feedback ensures superior learning retention.\n2. **Dynamic Ledger Auditing**: Transactions on the BrahmaVidya blockchain (and our double-entry ledger database) remain completely secure and immutable.\n\n#### Implementation & Sample Code\nIf you are designing custom solutions, consider the following blueprint implementation:\n\n```python\n# BrahmaVidya AI - Automated Ledger Audit Hook\nimport hashlib\nfrom datetime import datetime\n\ndef generate_audit_checksum(wallet_id: str, balance: float, ts: datetime) -> str:\n    \"\"\"\n    Computes secure verification checksum block.\n    \"\"\"\n    raw_payload = f\"{wallet_id}:{balance}:{ts.isoformat()}\"\n    return hashlib.sha256(raw_payload.encode('utf-8')).hexdigest()\n\n# Example Usage\nprint(generate_audit_checksum(\"W-10024\", 1520.45, datetime.utcnow()))\n```\n\n#### Strategic Next Steps\n- Review your current **Portfolio Builder** integration checklist.\n- Verify your available reward points or **Vidya Tokens** to purchase courses or unlock premium mentoring sessions.\n- Consult the attached resources below to read complete specs.\n",
+      "status": "sent",
+      "references": [
+        {
+          "title": "BrahmaVidya Enterprise API Standards",
+          "url": "https://brahmavidya.edu/docs/api-standards",
+          "snippet": "Contains absolute rules for building standard RESTful APIs with strict security permissions and token auditing."
+        },
+        {
+          "title": "Double-Entry Ledger Architecture Documentation",
+          "url": "https://brahmavidya.edu/docs/ledger-architecture",
+          "snippet": "Specifies 3NF schemas for handling high-volume wallet credits, debits, and transfers safely."
+        }
+      ],
+      "citations": [
+        {
+          "source": "BrahmaVidya Master Specification v2.4",
+          "start_char": 0,
+          "end_char": 100
+        }
+      ],
+      "attachments": [
+        {
+          "name": "enterprise_architecture_blueprint.pdf",
+          "file_type": "application/pdf",
+          "file_size_bytes": 2048500,
+          "url": "https://brahmavidya.edu/assets/enterprise_architecture_blueprint.pdf"
+        }
+      ],
+      "images_metadata": [
+        {
+          "name": "ledger_flowchart.png",
+          "dimensions": "1200x800",
+          "url": "https://brahmavidya.edu/assets/ledger_flowchart.png"
+        }
+      ],
+      "is_pinned": false,
+      "is_important": false,
+      "created_at": "2026-07-09T10:14:36.981469"
+    }
+  },
+  "feedback": {
+    "1bbe177d-ceda-4042-9d26-0f66f23af81a": {
+      "id": "1bbe177d-ceda-4042-9d26-0f66f23af81a",
+      "message_id": "00710e34-056f-4356-8e46-1cadb20df9ee",
+      "rating": 5,
+      "feedback_type": "THUMBS_UP",
+      "category": "Helpfulness",
+      "comment": "Outstanding explanation with code coordinates example.",
+      "response_quality": "Good",
+      "correctness": "Correct",
+      "helpfulness": "Helpful",
+      "created_at": "2026-07-09T09:47:34.596998"
+    },
+    "48f53c79-c8a7-4563-9576-e7b609ecdab2": {
+      "id": "48f53c79-c8a7-4563-9576-e7b609ecdab2",
+      "message_id": "e7a613f8-cba2-432f-af30-c72814265923",
+      "rating": 5,
+      "feedback_type": "THUMBS_UP",
+      "category": "Helpfulness",
+      "comment": "Outstanding explanation with code coordinates example.",
+      "response_quality": "Good",
+      "correctness": "Correct",
+      "helpfulness": "Helpful",
+      "created_at": "2026-07-09T09:47:46.797223"
+    },
+    "9e97f95f-cf7b-45b4-9b6d-b10b047e717b": {
+      "id": "9e97f95f-cf7b-45b4-9b6d-b10b047e717b",
+      "message_id": "7871f695-e001-44f6-95dc-ec3de25d7b55",
+      "rating": 5,
+      "feedback_type": "THUMBS_UP",
+      "category": "Helpfulness",
+      "comment": "Outstanding explanation with code coordinates example.",
+      "response_quality": "Good",
+      "correctness": "Correct",
+      "helpfulness": "Helpful",
+      "created_at": "2026-07-09T09:59:30.118104"
+    },
+    "43de0372-9196-434a-a57c-7be183a348d8": {
+      "id": "43de0372-9196-434a-a57c-7be183a348d8",
+      "message_id": "48b19097-31b7-4c6f-88f9-bdffd5d5486f",
+      "rating": 5,
+      "feedback_type": "THUMBS_UP",
+      "category": "Helpfulness",
+      "comment": "Outstanding explanation with code coordinates example.",
+      "response_quality": "Good",
+      "correctness": "Correct",
+      "helpfulness": "Helpful",
+      "created_at": "2026-07-09T10:14:37.045411"
+    }
+  },
+  "prompts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "title": "Ultimate Education Guide",
+      "prompt_text": "You are an expert assistant specialized in Education. Please provide a comprehensive overview and answer the user's specific request using structured analysis, clear explanations, and professional recommendations.",
+      "category": "Education",
+      "version": "1.0.0",
+      "is_active": true,
+      "is_public": true,
+      "is_favorite": true,
+      "owner_id": null,
+      "created_at": "2026-07-09T09:46:51.327980"
+    },
+    "00000000-0000-0000-0000-000000000002": {
+      "id": "00000000-0000-0000-0000-000000000002",
+      "title": "Ultimate Programming Guide",
+      "prompt_text": "You are an expert assistant specialized in Programming. Please provide a comprehensive overview and answer the user's specific request using structured analysis, clear explanations, and professional recommendations.",
+      "category": "Programming",
+      "version": "1.0.0",
+      "is_active": true,
+      "is_public": true,
+      "is_favorite": false,
+      "owner_id": null,
+      "created_at": "2026-07-09T09:46:51.327980"
+    },
+    "00000000-0000-0000-0000-000000000003": {
+      "id": "00000000-0000-0000-0000-000000000003",
+      "title": "Ultimate Resume Guide",
+      "prompt_text": "You are an expert assistant specialized in Resume. Please provide a comprehensive overview and answer the user's specific request using structured analysis, clear explanations, and professional recommendations.",
+      "category": "Resume",
+      "version": "1.0.0",
+      "is_active": true,
+      "is_public": true,
+      "is_favorite": false,
+      "owner_id": null,
+      "created_at": "2026-07-09T09:46:51.327980"
+    },
+    "00000000-0000-0000-0000-000000000004": {
+      "id": "00000000-0000-0000-0000-000000000004",
+      "title": "Ultimate Portfolio Guide",
+      "prompt_text": "You are an expert assistant specialized in Portfolio. Please provide a comprehensive overview and answer the user's specific request using structured analysis, clear explanations, and professional recommendations.",
+      "category": "Portfolio",
+      "version": "1.0.0",
+      "is_active": true,
+      "is_public": true,
+      "is_favorite": true,
+      "owner_id": null,
+      "created_at": "2026-07-09T09:46:51.327980"
+    },
+    "00000000-0000-0000-0000-000000000005": {
+      "id": "00000000-0000-0000-0000-000000000005",
+      "title": "Ultimate Career Guide",
+      "prompt_text": "You are an expert assistant specialized in Career. Please provide a comprehensive overview and answer the user's specific request using structured analysis, clear explanations, and professional recommendations.",
+      "category": "Career",
+      "version": "1.0.0",
+      "is_active": true,
+      "is_public": true,
+      "is_favorite": false,
+      "owner_id": null,
+      "created_at": "2026-07-09T09:46:51.327980"
+    },
+    "00000000-0000-0000-0000-000000000006": {
+      "id": "00000000-0000-0000-0000-000000000006",
+      "title": "Ultimate Translation Guide",
+      "prompt_text": "You are an expert assistant specialized in Translation. Please provide a comprehensive overview and answer the user's specific request using structured analysis, clear explanations, and professional recommendations.",
+      "category": "Translation",
+      "version": "1.0.0",
+      "is_active": true,
+      "is_public": true,
+      "is_favorite": false,
+      "owner_id": null,
+      "created_at": "2026-07-09T09:46:51.327980"
+    },
+    "00000000-0000-0000-0000-000000000007": {
+      "id": "00000000-0000-0000-0000-000000000007",
+      "title": "Ultimate Business Guide",
+      "prompt_text": "You are an expert assistant specialized in Business. Please provide a comprehensive overview and answer the user's specific request using structured analysis, clear explanations, and professional recommendations.",
+      "category": "Business",
+      "version": "1.0.0",
+      "is_active": true,
+      "is_public": true,
+      "is_favorite": true,
+      "owner_id": null,
+      "created_at": "2026-07-09T09:46:51.327980"
+    },
+    "00000000-0000-0000-0000-000000000008": {
+      "id": "00000000-0000-0000-0000-000000000008",
+      "title": "Ultimate Marketing Guide",
+      "prompt_text": "You are an expert assistant specialized in Marketing. Please provide a comprehensive overview and answer the user's specific request using structured analysis, clear explanations, and professional recommendations.",
+      "category": "Marketing",
+      "version": "1.0.0",
+      "is_active": true,
+      "is_public": true,
+      "is_favorite": false,
+      "owner_id": null,
+      "created_at": "2026-07-09T09:46:51.327980"
+    },
+    "00000000-0000-0000-0000-000000000009": {
+      "id": "00000000-0000-0000-0000-000000000009",
+      "title": "Ultimate Blog Writing Guide",
+      "prompt_text": "You are an expert assistant specialized in Blog Writing. Please provide a comprehensive overview and answer the user's specific request using structured analysis, clear explanations, and professional recommendations.",
+      "category": "Blog Writing",
+      "version": "1.0.0",
+      "is_active": true,
+      "is_public": true,
+      "is_favorite": false,
+      "owner_id": null,
+      "created_at": "2026-07-09T09:46:51.327980"
+    },
+    "00000000-0000-0000-0000-00000000000a": {
+      "id": "00000000-0000-0000-0000-00000000000a",
+      "title": "Ultimate Research Guide",
+      "prompt_text": "You are an expert assistant specialized in Research. Please provide a comprehensive overview and answer the user's specific request using structured analysis, clear explanations, and professional recommendations.",
+      "category": "Research",
+      "version": "1.0.0",
+      "is_active": true,
+      "is_public": true,
+      "is_favorite": true,
+      "owner_id": null,
+      "created_at": "2026-07-09T09:46:51.327980"
+    },
+    "00000000-0000-0000-0000-00000000000b": {
+      "id": "00000000-0000-0000-0000-00000000000b",
+      "title": "Ultimate Mathematics Guide",
+      "prompt_text": "You are an expert assistant specialized in Mathematics. Please provide a comprehensive overview and answer the user's specific request using structured analysis, clear explanations, and professional recommendations.",
+      "category": "Mathematics",
+      "version": "1.0.0",
+      "is_active": true,
+      "is_public": true,
+      "is_favorite": false,
+      "owner_id": null,
+      "created_at": "2026-07-09T09:46:51.327980"
+    },
+    "00000000-0000-0000-0000-00000000000c": {
+      "id": "00000000-0000-0000-0000-00000000000c",
+      "title": "Ultimate Science Guide",
+      "prompt_text": "You are an expert assistant specialized in Science. Please provide a comprehensive overview and answer the user's specific request using structured analysis, clear explanations, and professional recommendations.",
+      "category": "Science",
+      "version": "1.0.0",
+      "is_active": true,
+      "is_public": true,
+      "is_favorite": false,
+      "owner_id": null,
+      "created_at": "2026-07-09T09:46:51.327980"
+    }
+  },
+  "models": {
+    "gemini-1.5-pro": {
+      "id": "gemini-1.5-pro",
+      "name": "Gemini 1.5 Pro",
+      "provider": "Gemini",
+      "is_active": true,
+      "is_default": true,
+      "context_window": 2000000,
+      "max_tokens": 8192,
+      "default_temperature": 0.7,
+      "pricing_metadata": {
+        "prompt_token_rate": 1.25e-06,
+        "completion_token_rate": 3.75e-06
+      },
+      "status": "ACTIVE"
+    },
+    "gemini-1.5-flash": {
+      "id": "gemini-1.5-flash",
+      "name": "Gemini 1.5 Flash",
+      "provider": "Gemini",
+      "is_active": true,
+      "is_default": false,
+      "context_window": 1000000,
+      "max_tokens": 8192,
+      "default_temperature": 1.0,
+      "pricing_metadata": {
+        "prompt_token_rate": 7.5e-08,
+        "completion_token_rate": 3e-07
+      },
+      "status": "ACTIVE"
+    },
+    "gpt-4o": {
+      "id": "gpt-4o",
+      "name": "GPT-4o",
+      "provider": "GPT",
+      "is_active": true,
+      "is_default": false,
+      "context_window": 1280000,
+      "max_tokens": 4096,
+      "default_temperature": 0.7,
+      "pricing_metadata": {
+        "prompt_token_rate": 5e-06,
+        "completion_token_rate": 1.5e-05
+      },
+      "status": "ACTIVE"
+    },
+    "claude-3-5-sonnet": {
+      "id": "claude-3-5-sonnet",
+      "name": "Claude 3.5 Sonnet",
+      "provider": "Claude",
+      "is_active": true,
+      "is_default": false,
+      "context_window": 200000,
+      "max_tokens": 8192,
+      "default_temperature": 0.7,
+      "pricing_metadata": {
+        "prompt_token_rate": 3e-06,
+        "completion_token_rate": 1.5e-05
+      },
+      "status": "ACTIVE"
+    },
+    "llama-3-70b": {
+      "id": "llama-3-70b",
+      "name": "Llama 3 70B",
+      "provider": "Open Source Models",
+      "is_active": true,
+      "is_default": false,
+      "context_window": 8192,
+      "max_tokens": 2048,
+      "default_temperature": 0.6,
+      "pricing_metadata": {
+        "prompt_token_rate": 5e-07,
+        "completion_token_rate": 8e-07
+      },
+      "status": "ACTIVE"
+    },
+    "mistral-large": {
+      "id": "mistral-large",
+      "name": "Mistral Large",
+      "provider": "Open Source Models",
+      "is_active": true,
+      "is_default": false,
+      "context_window": 32768,
+      "max_tokens": 4096,
+      "default_temperature": 0.7,
+      "pricing_metadata": {
+        "prompt_token_rate": 2e-06,
+        "completion_token_rate": 6e-06
+      },
+      "status": "ACTIVE"
+    }
+  },
+  "sessions": {
+    "e727caf9-a9cc-4600-b235-bc68c9b166c0": {
+      "id": "e727caf9-a9cc-4600-b235-bc68c9b166c0",
+      "user_id": "62185a45-a638-445b-9bca-b6cad50810d6",
+      "start_time": "2026-07-09T09:47:34.607882",
+      "end_time": "2026-07-09T09:47:34.640459",
+      "last_activity": "2026-07-09T09:47:34.640459",
+      "duration_seconds": 0,
+      "current_model_id": "gemini-1.5-pro",
+      "language": "en",
+      "timezone": "IST",
+      "device": "Laptop",
+      "browser": "Firefox"
+    },
+    "3cb3e024-65bd-48ce-a86b-774956b89279": {
+      "id": "3cb3e024-65bd-48ce-a86b-774956b89279",
+      "user_id": "62185a45-a638-445b-9bca-b6cad50810d6",
+      "start_time": "2026-07-09T09:47:46.806670",
+      "end_time": "2026-07-09T09:47:46.839911",
+      "last_activity": "2026-07-09T09:47:46.839911",
+      "duration_seconds": 0,
+      "current_model_id": "gemini-1.5-pro",
+      "language": "en",
+      "timezone": "IST",
+      "device": "Laptop",
+      "browser": "Firefox"
+    },
+    "041716d5-4198-47f6-96f1-37f5b865f029": {
+      "id": "041716d5-4198-47f6-96f1-37f5b865f029",
+      "user_id": "62185a45-a638-445b-9bca-b6cad50810d6",
+      "start_time": "2026-07-09T09:59:30.190674",
+      "end_time": "2026-07-09T09:59:30.291906",
+      "last_activity": "2026-07-09T09:59:30.291906",
+      "duration_seconds": 0,
+      "current_model_id": "gemini-1.5-pro",
+      "language": "en",
+      "timezone": "IST",
+      "device": "Laptop",
+      "browser": "Firefox"
+    },
+    "e6452822-a69e-48a0-9125-511ea42424c3": {
+      "id": "e6452822-a69e-48a0-9125-511ea42424c3",
+      "user_id": "62185a45-a638-445b-9bca-b6cad50810d6",
+      "start_time": "2026-07-09T10:14:37.061624",
+      "end_time": "2026-07-09T10:14:37.098236",
+      "last_activity": "2026-07-09T10:14:37.098236",
+      "duration_seconds": 0,
+      "current_model_id": "gemini-1.5-pro",
+      "language": "en",
+      "timezone": "IST",
+      "device": "Laptop",
+      "browser": "Firefox"
+    }
+  },
+  "usage_tracking": [
+    {
+      "id": "0953032c-dff4-43de-b43c-13964bfff878",
+      "user_id": "62185a45-a638-445b-9bca-b6cad50810d6",
+      "conversation_id": "4757e808-2eda-4013-8d5c-acd0a199c70c",
+      "model_id": "gemini-1.5-pro",
+      "feature_used": "chat",
+      "prompt_length": 43,
+      "completion_length": 1434,
+      "prompt_tokens": 10,
+      "completion_tokens": 358,
+      "total_tokens": 368,
+      "estimated_cost": 0.0013549999999999999,
+      "latency_ms": 1250,
+      "created_at": "2026-07-09T09:47:16.531684",
+      "language": "en"
+    },
+    {
+      "id": "a2bc0e4f-4127-4b10-b073-af065ee5afb3",
+      "user_id": "62185a45-a638-445b-9bca-b6cad50810d6",
+      "conversation_id": "c448c374-cf56-4bed-bf76-73c7adcf690d",
+      "model_id": "gemini-1.5-pro",
+      "feature_used": "chat",
+      "prompt_length": 43,
+      "completion_length": 1434,
+      "prompt_tokens": 10,
+      "completion_tokens": 358,
+      "total_tokens": 368,
+      "estimated_cost": 0.0013549999999999999,
+      "latency_ms": 1250,
+      "created_at": "2026-07-09T09:47:34.526502",
+      "language": "en"
+    },
+    {
+      "id": "cb836065-3108-4d1d-9f70-5ee8a250fb62",
+      "user_id": "62185a45-a638-445b-9bca-b6cad50810d6",
+      "conversation_id": "aaa8234b-c89f-4c16-a6e3-511ee69efdd3",
+      "model_id": "gemini-1.5-pro",
+      "feature_used": "chat",
+      "prompt_length": 43,
+      "completion_length": 1434,
+      "prompt_tokens": 10,
+      "completion_tokens": 358,
+      "total_tokens": 368,
+      "estimated_cost": 0.0013549999999999999,
+      "latency_ms": 1250,
+      "created_at": "2026-07-09T09:47:46.733562",
+      "language": "en"
+    },
+    {
+      "id": "ecf02dc2-dfc6-4cc9-91f7-f0e589dedd63",
+      "user_id": "62185a45-a638-445b-9bca-b6cad50810d6",
+      "conversation_id": "c578783d-2521-45be-b908-f7504e2306d9",
+      "model_id": "gemini-1.5-pro",
+      "feature_used": "chat",
+      "prompt_length": 43,
+      "completion_length": 1434,
+      "prompt_tokens": 10,
+      "completion_tokens": 358,
+      "total_tokens": 368,
+      "estimated_cost": 0.0013549999999999999,
+      "latency_ms": 1250,
+      "created_at": "2026-07-09T09:59:30.039175",
+      "language": "en"
+    },
+    {
+      "id": "49c2de37-a0ae-456d-a5f3-faada4a2da89",
+      "user_id": "62185a45-a638-445b-9bca-b6cad50810d6",
+      "conversation_id": "01592c69-c975-4014-8d78-1acbf500d78a",
+      "model_id": "gemini-1.5-pro",
+      "feature_used": "chat",
+      "prompt_length": 43,
+      "completion_length": 1434,
+      "prompt_tokens": 10,
+      "completion_tokens": 358,
+      "total_tokens": 368,
+      "estimated_cost": 0.0013549999999999999,
+      "latency_ms": 1250,
+      "created_at": "2026-07-09T10:14:36.981469",
+      "language": "en"
+    },
+    {
+      "timestamp": "2026-07-18T16:25:04.491493+00:00",
+      "model_id": "gemini-1.5-flash",
+      "prompt_tokens": 24,
+      "completion_tokens": 358,
+      "estimated_cost_usd": 0.0001092,
+      "feature": "teacher_grading_copilot"
+    },
+    {
+      "timestamp": "2026-07-18T16:40:47.499856+00:00",
+      "model_id": "gemini-1.5-flash",
+      "prompt_tokens": 24,
+      "completion_tokens": 358,
+      "estimated_cost_usd": 0.0001092,
+      "feature": "teacher_grading_copilot"
+    },
+    {
+      "timestamp": "2026-07-18T16:41:23.012453+00:00",
+      "model_id": "gemini-1.5-flash",
+      "prompt_tokens": 24,
+      "completion_tokens": 358,
+      "estimated_cost_usd": 0.0001092,
+      "feature": "teacher_grading_copilot"
+    },
+    {
+      "timestamp": "2026-07-18T17:12:31.059201+00:00",
+      "model_id": "gemini-1.5-flash",
+      "prompt_tokens": 24,
+      "completion_tokens": 358,
+      "estimated_cost_usd": 0.0001092,
+      "feature": "teacher_grading_copilot"
+    }
+  ]
+}

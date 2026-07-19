@@ -1,0 +1,639 @@
+{
+  "websites": {
+    "site-1": {
+      "id": "site-1",
+      "user_id": "1",
+      "name": "Official BrahmaVidya Galaxy Hub",
+      "subdomain": "creative",
+      "custom_domain": "portfolio.brahmavidya.edu",
+      "status": "published",
+      "footer_builder": {
+        "footer_columns": [
+          {
+            "title": "Product",
+            "links": [
+              {
+                "label": "Features",
+                "url": "/features"
+              },
+              {
+                "label": "Pricing",
+                "url": "/pricing"
+              }
+            ]
+          },
+          {
+            "title": "Resources",
+            "links": [
+              {
+                "label": "Documentation",
+                "url": "/docs"
+              },
+              {
+                "label": "API Status",
+                "url": "/status"
+              }
+            ]
+          }
+        ],
+        "copyright_text": "\u00a9 2026 BrahmaVidya Galaxy. All Rights Reserved.",
+        "social_icons": [
+          "github",
+          "twitter",
+          "linkedin",
+          "youtube"
+        ]
+      },
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    }
+  },
+  "pages": {
+    "page-1": {
+      "id": "page-1",
+      "website_id": "site-1",
+      "slug": "home",
+      "title": "Home",
+      "page_type": "home",
+      "is_published": true,
+      "display_order": 1,
+      "seo": {
+        "meta_title": "Home | BrahmaVidya Professional Hub",
+        "meta_description": "Explore our comprehensive academic review of Home features and tools.",
+        "keywords": "academic, portfolio, home, brahmavidya",
+        "opengraph_image": "https://brahmavidya.edu/assets/opengraph_default.png"
+      },
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "page-2": {
+      "id": "page-2",
+      "website_id": "site-1",
+      "slug": "about",
+      "title": "About Me",
+      "page_type": "about",
+      "is_published": true,
+      "display_order": 2,
+      "seo": {
+        "meta_title": "About Me | BrahmaVidya Professional Hub",
+        "meta_description": "Explore our comprehensive academic review of About Me features and tools.",
+        "keywords": "academic, portfolio, about, brahmavidya",
+        "opengraph_image": "https://brahmavidya.edu/assets/opengraph_default.png"
+      },
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "page-3": {
+      "id": "page-3",
+      "website_id": "site-1",
+      "slug": "services",
+      "title": "My Services",
+      "page_type": "services",
+      "is_published": true,
+      "display_order": 3,
+      "seo": {
+        "meta_title": "My Services | BrahmaVidya Professional Hub",
+        "meta_description": "Explore our comprehensive academic review of My Services features and tools.",
+        "keywords": "academic, portfolio, services, brahmavidya",
+        "opengraph_image": "https://brahmavidya.edu/assets/opengraph_default.png"
+      },
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "page-4": {
+      "id": "page-4",
+      "website_id": "site-1",
+      "slug": "projects",
+      "title": "Key Projects",
+      "page_type": "projects",
+      "is_published": true,
+      "display_order": 4,
+      "seo": {
+        "meta_title": "Key Projects | BrahmaVidya Professional Hub",
+        "meta_description": "Explore our comprehensive academic review of Key Projects features and tools.",
+        "keywords": "academic, portfolio, projects, brahmavidya",
+        "opengraph_image": "https://brahmavidya.edu/assets/opengraph_default.png"
+      },
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "page-5": {
+      "id": "page-5",
+      "website_id": "site-1",
+      "slug": "skills",
+      "title": "Skills Portfolio",
+      "page_type": "skills",
+      "is_published": true,
+      "display_order": 5,
+      "seo": {
+        "meta_title": "Skills Portfolio | BrahmaVidya Professional Hub",
+        "meta_description": "Explore our comprehensive academic review of Skills Portfolio features and tools.",
+        "keywords": "academic, portfolio, skills, brahmavidya",
+        "opengraph_image": "https://brahmavidya.edu/assets/opengraph_default.png"
+      },
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "page-6": {
+      "id": "page-6",
+      "website_id": "site-1",
+      "slug": "experience",
+      "title": "Work Experience",
+      "page_type": "experience",
+      "is_published": true,
+      "display_order": 6,
+      "seo": {
+        "meta_title": "Work Experience | BrahmaVidya Professional Hub",
+        "meta_description": "Explore our comprehensive academic review of Work Experience features and tools.",
+        "keywords": "academic, portfolio, experience, brahmavidya",
+        "opengraph_image": "https://brahmavidya.edu/assets/opengraph_default.png"
+      },
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "page-7": {
+      "id": "page-7",
+      "website_id": "site-1",
+      "slug": "education",
+      "title": "Education History",
+      "page_type": "education",
+      "is_published": true,
+      "display_order": 7,
+      "seo": {
+        "meta_title": "Education History | BrahmaVidya Professional Hub",
+        "meta_description": "Explore our comprehensive academic review of Education History features and tools.",
+        "keywords": "academic, portfolio, education, brahmavidya",
+        "opengraph_image": "https://brahmavidya.edu/assets/opengraph_default.png"
+      },
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "page-8": {
+      "id": "page-8",
+      "website_id": "site-1",
+      "slug": "pricing",
+      "title": "Pricing Guides",
+      "page_type": "pricing",
+      "is_published": true,
+      "display_order": 8,
+      "seo": {
+        "meta_title": "Pricing Guides | BrahmaVidya Professional Hub",
+        "meta_description": "Explore our comprehensive academic review of Pricing Guides features and tools.",
+        "keywords": "academic, portfolio, pricing, brahmavidya",
+        "opengraph_image": "https://brahmavidya.edu/assets/opengraph_default.png"
+      },
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "page-9": {
+      "id": "page-9",
+      "website_id": "site-1",
+      "slug": "contact",
+      "title": "Contact Forms",
+      "page_type": "contact",
+      "is_published": true,
+      "display_order": 9,
+      "seo": {
+        "meta_title": "Contact Forms | BrahmaVidya Professional Hub",
+        "meta_description": "Explore our comprehensive academic review of Contact Forms features and tools.",
+        "keywords": "academic, portfolio, contact, brahmavidya",
+        "opengraph_image": "https://brahmavidya.edu/assets/opengraph_default.png"
+      },
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    }
+  },
+  "navigation_menus": {
+    "nav-1": {
+      "id": "nav-1",
+      "website_id": "site-1",
+      "parent_id": null,
+      "label": "Home",
+      "url": "/",
+      "icon": "home",
+      "display_order": 1,
+      "is_visible": true,
+      "is_external": false,
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "nav-2": {
+      "id": "nav-2",
+      "website_id": "site-1",
+      "parent_id": null,
+      "label": "About",
+      "url": "/about",
+      "icon": "user",
+      "display_order": 2,
+      "is_visible": true,
+      "is_external": false,
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "nav-3": {
+      "id": "nav-3",
+      "website_id": "site-1",
+      "parent_id": null,
+      "label": "Works",
+      "url": "/portfolio",
+      "icon": "briefcase",
+      "display_order": 3,
+      "is_visible": true,
+      "is_external": false,
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "nav-4": {
+      "id": "nav-4",
+      "website_id": "site-1",
+      "parent_id": "nav-3",
+      "label": "Case Studies",
+      "url": "/portfolio/case-studies",
+      "icon": "folder",
+      "display_order": 1,
+      "is_visible": true,
+      "is_external": false,
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "nav-5": {
+      "id": "nav-5",
+      "website_id": "site-1",
+      "parent_id": null,
+      "label": "Contact",
+      "url": "/contact",
+      "icon": "mail",
+      "display_order": 4,
+      "is_visible": true,
+      "is_external": false,
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    }
+  },
+  "sections": {
+    "sec-301": {
+      "id": "sec-301",
+      "page_id": "page-1",
+      "section_type": "hero",
+      "title": "Welcome to BrahmaVidya Creative Nexus",
+      "subtitle": "Engineering the Future of Blockchain and Academic Integrity",
+      "content": {
+        "cta_text": "Explore Portfolios",
+        "cta_url": "/portfolio",
+        "hero_image_url": "https://brahmavidya.edu/assets/hero_nebula.jpg",
+        "layout_alignment": "center"
+      },
+      "display_order": 1,
+      "is_active": true,
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "sec-302": {
+      "id": "sec-302",
+      "page_id": "page-1",
+      "section_type": "services",
+      "title": "Core Technical Services",
+      "subtitle": "Comprehensive full-stack engineering, cloud deployments, and AI mentoring",
+      "content": {
+        "services_list": [
+          {
+            "title": "Automated Smart Auditing",
+            "icon": "shield",
+            "description": "Analyzing solidity layouts for potential double-spend vulnerabilities."
+          },
+          {
+            "title": "Custom LMS Provisioning",
+            "icon": "graduation-cap",
+            "description": "Spinning up dedicated courseware portals in milliseconds."
+          }
+        ]
+      },
+      "display_order": 2,
+      "is_active": true,
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "sec-303": {
+      "id": "sec-303",
+      "page_id": "page-2",
+      "section_type": "about",
+      "title": "About Our Enterprise Hub",
+      "subtitle": "Academic excellence backed by decentralized cryptographic consensus.",
+      "content": {
+        "about_body": "At BrahmaVidya Galaxy, we believe that academic and professional portfolios should be verifiable and expressive. Our platform combines web curation tools with decentralized cryptographic checks.",
+        "founded_year": 2026,
+        "team_size": 42
+      },
+      "display_order": 1,
+      "is_active": true,
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    }
+  },
+  "themes": {
+    "theme-100": {
+      "id": "theme-100",
+      "website_id": "site-1",
+      "name": "Minimalist Light",
+      "theme_type": "light",
+      "primary_color": "#1A1A1A",
+      "secondary_color": "#4A4A4A",
+      "background_color": "#FAFAFA",
+      "text_color": "#212121",
+      "font_family_sans": "Inter",
+      "font_family_heading": "Outfit",
+      "layout_style": "clean-grid",
+      "animation_settings": {
+        "hover_transition": "all 0.2s ease-in-out",
+        "fade_in_delay_ms": 150
+      },
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "theme-101": {
+      "id": "theme-101",
+      "website_id": "site-1",
+      "name": "Cybernetic Indigo",
+      "theme_type": "dark",
+      "primary_color": "#6366F1",
+      "secondary_color": "#A5B4FC",
+      "background_color": "#0F172A",
+      "text_color": "#F8FAFC",
+      "font_family_sans": "Fira Code",
+      "font_family_heading": "Space Grotesk",
+      "layout_style": "bento-box",
+      "animation_settings": {
+        "hover_transition": "all 0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "fade_in_delay_ms": 200
+      },
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    }
+  },
+  "media_library": {
+    "media-201": {
+      "id": "media-201",
+      "website_id": "site-1",
+      "name": "profile_avatar.png",
+      "file_type": "image",
+      "file_size": 154200,
+      "url": "https://brahmavidya.edu/assets/profile_avatar.png",
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "media-202": {
+      "id": "media-202",
+      "website_id": "site-1",
+      "name": "professional_resume_2026.pdf",
+      "file_type": "pdf",
+      "file_size": 450800,
+      "url": "https://brahmavidya.edu/assets/professional_resume_2026.pdf",
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "media-203": {
+      "id": "media-203",
+      "website_id": "site-1",
+      "name": "galaxy_brand_logo.svg",
+      "file_type": "logo",
+      "file_size": 24500,
+      "url": "https://brahmavidya.edu/assets/galaxy_brand_logo.svg",
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    }
+  },
+  "jobs": {
+    "77463b18-58fb-4492-95f6-93f08f2d2c16": {
+      "id": "77463b18-58fb-4492-95f6-93f08f2d2c16",
+      "title": "Principal Deep Learning Architect",
+      "company_name": "BrahmaVidya Intelligence",
+      "description": "Orchestrating agentic transformers networks and cognitive graph decoders.",
+      "location": "Bengaluru (Hybrid)",
+      "job_type": "FULL_TIME",
+      "salary_range": "3,600,000 - 5,000,000 INR",
+      "created_at": "2026-07-08T15:42:14.667107",
+      "updated_at": "2026-07-08T15:42:14.667107",
+      "deleted_at": null
+    },
+    "bbd2432b-632c-464d-87b6-3f5929614a86": {
+      "id": "bbd2432b-632c-464d-87b6-3f5929614a86",
+      "title": "Principal Deep Learning Architect",
+      "company_name": "BrahmaVidya Intelligence",
+      "description": "Orchestrating agentic transformers networks and cognitive graph decoders.",
+      "location": "Bengaluru (Hybrid)",
+      "job_type": "FULL_TIME",
+      "salary_range": "3,600,000 - 5,000,000 INR",
+      "created_at": "2026-07-08T15:42:50.580937",
+      "updated_at": "2026-07-08T15:42:50.580937",
+      "deleted_at": null
+    },
+    "34521420-53e9-4a19-976f-21a2878f16a3": {
+      "id": "34521420-53e9-4a19-976f-21a2878f16a3",
+      "title": "Principal Deep Learning Architect",
+      "company_name": "BrahmaVidya Intelligence",
+      "description": "Orchestrating agentic transformers networks and cognitive graph decoders.",
+      "location": "Bengaluru (Hybrid)",
+      "job_type": "FULL_TIME",
+      "salary_range": "3,600,000 - 5,000,000 INR",
+      "created_at": "2026-07-09T09:59:15.155510",
+      "updated_at": "2026-07-09T09:59:15.155510",
+      "deleted_at": null
+    },
+    "9c1df517-356c-49d5-96fd-66fbebe9f3c0": {
+      "id": "9c1df517-356c-49d5-96fd-66fbebe9f3c0",
+      "title": "Principal Deep Learning Architect",
+      "company_name": "BrahmaVidya Intelligence",
+      "description": "Orchestrating agentic transformers networks and cognitive graph decoders.",
+      "location": "Bengaluru (Hybrid)",
+      "job_type": "FULL_TIME",
+      "salary_range": "3,600,000 - 5,000,000 INR",
+      "created_at": "2026-07-09T10:14:51.057037",
+      "updated_at": "2026-07-09T10:14:51.057037",
+      "deleted_at": null
+    }
+  },
+  "roadmaps": {
+    "df16e7ab-d1a6-4ac8-ac01-de30493e34f9": {
+      "id": "df16e7ab-d1a6-4ac8-ac01-de30493e34f9",
+      "title": "AI Architect Path",
+      "description": "Curriculum milestones mapping code generation, model tuning, and safety constraints.",
+      "milestones": [
+        {
+          "title": "Foundational Math & Python",
+          "status": "Completed"
+        },
+        {
+          "title": "Transformers & Attention Mechanisms",
+          "status": "Completed"
+        },
+        {
+          "title": "Agentic Multi-Agent Frameworks",
+          "status": "In Progress"
+        }
+      ],
+      "created_at": "2026-07-08T15:42:14.691169",
+      "updated_at": "2026-07-08T15:42:14.691169",
+      "deleted_at": null
+    },
+    "c6977f74-809b-42eb-8376-0d8cd3f741c1": {
+      "id": "c6977f74-809b-42eb-8376-0d8cd3f741c1",
+      "title": "AI Architect Path",
+      "description": "Curriculum milestones mapping code generation, model tuning, and safety constraints.",
+      "milestones": [
+        {
+          "title": "Foundational Math & Python",
+          "status": "Completed"
+        },
+        {
+          "title": "Transformers & Attention Mechanisms",
+          "status": "Completed"
+        },
+        {
+          "title": "Agentic Multi-Agent Frameworks",
+          "status": "In Progress"
+        }
+      ],
+      "created_at": "2026-07-08T15:42:50.621942",
+      "updated_at": "2026-07-08T15:42:50.621942",
+      "deleted_at": null
+    },
+    "f7570cee-de66-40a5-be2c-ab0499f27733": {
+      "id": "f7570cee-de66-40a5-be2c-ab0499f27733",
+      "title": "AI Architect Path",
+      "description": "Curriculum milestones mapping code generation, model tuning, and safety constraints.",
+      "milestones": [
+        {
+          "title": "Foundational Math & Python",
+          "status": "Completed"
+        },
+        {
+          "title": "Transformers & Attention Mechanisms",
+          "status": "Completed"
+        },
+        {
+          "title": "Agentic Multi-Agent Frameworks",
+          "status": "In Progress"
+        }
+      ],
+      "created_at": "2026-07-09T09:59:15.193914",
+      "updated_at": "2026-07-09T09:59:15.193914",
+      "deleted_at": null
+    },
+    "d96bc369-f192-444f-9805-32258c784051": {
+      "id": "d96bc369-f192-444f-9805-32258c784051",
+      "title": "AI Architect Path",
+      "description": "Curriculum milestones mapping code generation, model tuning, and safety constraints.",
+      "milestones": [
+        {
+          "title": "Foundational Math & Python",
+          "status": "Completed"
+        },
+        {
+          "title": "Transformers & Attention Mechanisms",
+          "status": "Completed"
+        },
+        {
+          "title": "Agentic Multi-Agent Frameworks",
+          "status": "In Progress"
+        }
+      ],
+      "created_at": "2026-07-09T10:14:51.090611",
+      "updated_at": "2026-07-09T10:14:51.090611",
+      "deleted_at": null
+    }
+  },
+  "resumes": {
+    "306f1c4a-7499-4c6d-a095-747bc2bae12e": {
+      "id": "306f1c4a-7499-4c6d-a095-747bc2bae12e",
+      "template_name": "cyber-indigo",
+      "data": {
+        "skills": [
+          "Django",
+          "Python",
+          "React",
+          "TypeScript",
+          "PostgreSQL"
+        ],
+        "experience": [
+          {
+            "company": "BrahmaVidya Corp",
+            "role": "Junior Full Stack Engineer",
+            "years": 2
+          }
+        ]
+      },
+      "created_at": "2026-07-08T15:42:50.536123",
+      "updated_at": "2026-07-08T15:42:50.536123",
+      "deleted_at": null
+    },
+    "d9154613-70b3-4d94-b4d9-afe7ede80538": {
+      "id": "d9154613-70b3-4d94-b4d9-afe7ede80538",
+      "template_name": "cyber-indigo",
+      "data": {
+        "skills": [
+          "Django",
+          "Python",
+          "React",
+          "TypeScript",
+          "PostgreSQL"
+        ],
+        "experience": [
+          {
+            "company": "BrahmaVidya Corp",
+            "role": "Junior Full Stack Engineer",
+            "years": 2
+          }
+        ]
+      },
+      "created_at": "2026-07-09T09:59:15.101617",
+      "updated_at": "2026-07-09T09:59:15.101617",
+      "deleted_at": null
+    },
+    "7e1c5991-4e41-40b3-a1d6-6b202a63b758": {
+      "id": "7e1c5991-4e41-40b3-a1d6-6b202a63b758",
+      "template_name": "cyber-indigo",
+      "data": {
+        "skills": [
+          "Django",
+          "Python",
+          "React",
+          "TypeScript",
+          "PostgreSQL"
+        ],
+        "experience": [
+          {
+            "company": "BrahmaVidya Corp",
+            "role": "Junior Full Stack Engineer",
+            "years": 2
+          }
+        ]
+      },
+      "created_at": "2026-07-09T10:14:51.008998",
+      "updated_at": "2026-07-09T10:14:51.008998",
+      "deleted_at": null
+    }
+  }
+}
